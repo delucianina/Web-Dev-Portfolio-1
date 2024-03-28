@@ -1,0 +1,25 @@
+.banner-parent-div {
+    background-color: black;
+    color: white;
+    font-size: 85px;
+    position: relative;
+    margin-top: 75px;
+    padding: 100px 0px;
+}
+
+.banner-text-div {
+    position: absolute;
+    top: 35%;
+    left: 20%;
+}
+
+#mp-banner-img {
+    height: 100%;
+    width: 100%;
+    opacity: 50%;
+}
+
+#social-media {
+    color: black;
+    font-size: 70px;
+}
